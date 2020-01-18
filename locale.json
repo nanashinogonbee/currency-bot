@@ -1,0 +1,32 @@
+{
+	"successful_lang_setup":
+		{
+		"English": "English language has been successfully set up.",
+		"Русский": "Русский язык успешно установлен."
+	},
+	"help_msg":
+	{
+		"English": "Hello! I am able to track exchange rates and display them in the graph form.",
+		"Русский": "Привет! Я могу отслеживать курсы валют и отображать их в виде графиков."
+	},
+	"sel_date":
+	{
+		"English": "Enter two dates separated by a space, separating the day, month and year with a period. Example: 16.04.1991 23.04.1991",
+		"Русский": "Введите две даты через пробел, разделяя день, месяц и год точкой. Пример: 16.04.1991 23.04.1991"
+	},
+	"set_curr":
+	{
+		"English": "Enter currency codes separated by a space. Example: GBP USD JPY",
+		"Русский": "Введите коды валют через пробел. Пример: GBP USD JPY"
+	},
+	"ch_err":
+	{
+		"English": "An error occurred while making a chart.",
+		"Русский": "Ошибка при составлении графика."
+	},
+	"graph":
+	{
+		"English": "Graphing.",
+		"Русский": "Составляю график."
+	}
+}
